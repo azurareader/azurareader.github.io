@@ -6,4 +6,4 @@ The policy is published using GitHub Pages.
 
 ## Live
 
-https://https://github.com/hoanhuynhdev-alt/azura-reader-privacy-policy/
+https://hoanhuynhdev-alt.github.io/azurareader/
